@@ -1,0 +1,19 @@
+{
+  "welcomeToApp": "Welcome to Yukta App",
+  "welcom": "Welcome",
+  "intro": "Learning app for specially able",
+  "liveAsltoText": "Live ASL To Text",
+  "howImpaired": "How are you physically impaired? If you are Blind choose the top most present button to continue and if your Deaf choose the bottom most present button to continue",
+  "chooseImpairment": "How are you physically impaired? Please Choose",
+  "chooseInBraille": "Type A in Braille and wait for few seconds to go to Typing Screen, Type B in Braille and wait for few seconds to convert PDF file to speech",
+  "youChoose": "You Chose A, Moving to Typing Screen",
+  "fileSaveUnderProcess": "Your file is getting saved",
+  "fileSaved": "Your file is successfully saved",
+  "notWrittenAnything": "You have not written anything",
+  "chooseLanguage": "Choose Language",
+  "Continue": "Continue",
+  "Choose": "Choose",
+  "typeMessage": "Type Message",
+  "chooseYourChildImpairment": "Choose Your Child Impairment",
+  "news": "News"
+}
