@@ -26,7 +26,7 @@ class ImageTextNotifier extends ChangeNotifier{
     String baseUrl ="https://text-extract-instance.cognitiveservices.azure.com/computervision/imageanalysis:analyze?api-version=2023-04-01-preview&features=Read&language=en&gender-neutral-caption=False";
     Map<String, String> heads = {
       "Content-type": 'application/json',
-      "Ocp-Apim-Subscription-Key":"740ac76dfe9a45fc8a9cf7c64b8ab1c7"
+      "Ocp-Apim-Subscription-Key":""
     };
     final dataBody={
       "url":imageUrl
